@@ -23,6 +23,9 @@ https://opendatabay.io
 NBA Stats API (Public Endpoint)
 https://stats.nba.com
 
+R package nbastatR
+https://github.com/abresler/nbastatR
+
 ## Current Plan
 
 Our current plan is to:
