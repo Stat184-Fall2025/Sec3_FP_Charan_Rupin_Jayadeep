@@ -71,3 +71,7 @@ GitHub: rupinreddy27-gif
 2)Charan Kuragayala
 Email: cmk6803@psu.edu
 GitHub: charangit-22
+
+3)Jayadeep Vadlapati
+Email: jxv5302@psu.edu
+GitHub: jayadeep0101
